@@ -1,8 +1,0 @@
-pandas
-numpy
-torch
-datasets
-scikit-learn
-transformers
-textract
-docx
