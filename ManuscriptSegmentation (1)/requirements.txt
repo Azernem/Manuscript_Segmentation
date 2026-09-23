@@ -1,8 +1,10 @@
 pandas
 numpy
 torch
+TorchCRF==0.7.2
 datasets
 scikit-learn
 transformers
 textract
 docx
+pytorch-crf==0.7.2
